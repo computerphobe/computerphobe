@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity enthusiast and student
 ------------------------------------
 
-I’m currently studying cybersecurity and diving deep into topics like threat intelligence, vulnerability assessment, and secure software development. On my GitHub, you’ll find projects focused on: Penetration Testing: Experimenting with tools and techniques for ethical hacking Network Security: Building tools to analyze and secure network traffic Malware Analysis: Understanding malicious software behaviors and detection strategies Cybersecurity Research: Documenting findings and sharing educational content 🔧 Languages & Tools: Python, Bash, Wireshark, Metasploit, Nmap, and more 🎓 Learning More About: Reverse engineering, cloud security, and cryptography
+I’m currently studying cybersecurity, Machine Learning, Quantum Computing and Quant Finance and diving deep into topics like threat intelligence, Reinforcement Learning, Agentic AI, Cross-field of Machine learning and Quantum Computing, and market analysis . On my GitHub, you’ll find projects focused on: Reinforcement Learning Cyber forensics, Pentesting, AI ,etc and techniques for ethical hacking Network Security: Building tools to analyze and secure network traffic Malware Analysis: Understanding malicious software behaviors and detection strategies Cybersecurity Research: Documenting findings and sharing educational content 🔧 Languages & Tools: Python, Bash, Wireshark, Metasploit, Nmap, and more 🎓 Learning More About: Reverse engineering, ML in Cyber Forensics
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [See my portfolio](http://portfolio-34pb-m1tms-projects.vercel.app/)
 * ✉️  You can contact me at [aryanbharadiyak2006@gmail.com](mailto:aryanbharadiyak2006@gmail.com)
-* 🧠  I'm learning tools like metaspoilt nmap, nikto
-* 🤝  I'm open to collaborating on Any security related topics
+* 🧠  I'm learning tools like Metaspoilt, Tensorflow, Qiskit, wireshark
+* 🤝  I'm open to collaborating on Any topics involving AI, ML, Cyber Forensics, and quantum computing
 
 ### Skills
 
