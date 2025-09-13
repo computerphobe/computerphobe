@@ -91,7 +91,7 @@ My work spans from building advanced threat detection tools to designing autonom
 
 ## 📌 Pinned Projects
 
-<a href="https://github.com/computerphobe/postmanchallenge"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=computerphobe&repo=postmanchallenge&theme=tokyonight" /></a>
+<a href="https://github.com/computerphobe/EnterprizeResoucePlanner"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=computerphobe&repo=postmanchallenge&theme=tokyonight" /></a>
 
 <!-- Add more as you go -->
 
